@@ -334,7 +334,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Nifty 50 stocks list (unchanged)
+# Nifty 50 stocks list 
 NIFTY_50_STOCKS = {
     'ADANIPORTS.NS': 'Adani Ports',
     'ASIANPAINT.NS': 'Asian Paints',
